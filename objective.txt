@@ -1,0 +1,27 @@
+Objective:
+Search for the top five B2B events in google list there website, scrape the relevant information from their websites, and compile the data into a structured format.
+
+Requirements:
+Search for Events:
+
+Use any reliable source (e.g., Google search, event listing websites) to identify the top five B2B events.
+Ensure the events are current or upcoming.
+Scrape Data:
+
+Use a standard web scraping tool (e.g., BeautifulSoup, Scrapy, or Puppeteer) to scrape the data from the event websites.
+Fetch the following information for each event:
+Event Name
+Event Date(s)
+Location (if applicable)
+Website URL
+Description
+Key Speakers
+Agenda/Schedule
+Registration Details
+Pricing 
+Categories
+Audience type
+
+
+Any other relevant information
+Store Data:
